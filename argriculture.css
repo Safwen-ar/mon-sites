@@ -1,0 +1,22 @@
+body{
+    
+    
+    background-color: blanchedalmond;
+}
+h1{ color: red;
+
+}
+ol{
+    color: red;
+}
+a{
+    color: black;
+}
+p{
+    color: blue;
+    color: red  ;
+}
+img{
+    border-radius: 2em;
+    margin: auto;
+}
